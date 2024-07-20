@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.timer-app {
+  text-align: center;
+  margin-top: 50px;
+
+}
+
+.timer-input {
+  margin-bottom: 20px;
+}
+
+.active-timers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#start-timer {
+  margin-top: 10px;
+  background-color: rgb(40, 163, 40);
+}
+.timer {
+  margin-bottom: 10px;
+  
+}
+
+.timer-end {
+  color: red;
+}
